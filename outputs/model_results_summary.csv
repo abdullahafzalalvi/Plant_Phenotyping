@@ -1,0 +1,10 @@
+"Metric","Value"
+"Total images",3073
+"Training images",2459
+"Test images",614
+"Accuracy (%)",97.56
+"Sensitivity (%)",98.33
+"Specificity (%)",96.46
+"Precision (%)",97.52
+"F1-Score",0.9793
+"OOB Error (%)",3.38
